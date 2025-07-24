@@ -97,6 +97,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 ## 👤 Developer
+
 **Bektas Sari**  
 Email: bektas.sari@gmail.com  <br>
 GitHub: https://github.com/bektas-sari <br>
