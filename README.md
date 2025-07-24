@@ -96,10 +96,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Contact
-
-Bektas Sari - [LinkedIn](www.linkedin.com/in/bektas-sari) - bektas.sari@gmail.com
+## 👤 Developer
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
